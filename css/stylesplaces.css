@@ -1,5 +1,6 @@
 h1 {
   color: red;
+  text-align: center;
 }
 
 h2{
@@ -12,5 +13,5 @@ p {
 
 ul {
   font-size: 20px;
-  line-height: 30px;
+  line-height: 20px;
   }
